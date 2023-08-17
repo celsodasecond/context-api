@@ -1,4 +1,4 @@
-# React Practice on the Context API ![forthebadge](https://badges.aleen42.com/src/react.svg)
+# React Practice on the Context API, and Hooks ![forthebadge](https://badges.aleen42.com/src/react.svg)
 
 ## App Screenshot
 
@@ -12,6 +12,7 @@ The concept behind this app (context-api) is to study React's Context API and Ho
 - Using Context API is powerful like using Redux.
 - Context API is a clean way to share states between components, thus making the communication easier between them.
 - Context Consumer can be used on both class and functional components.
+- Used useContext()
 
 ## How to Build ?
 
