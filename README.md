@@ -10,6 +10,7 @@ The concept behind this app (context-api) is to study React's Context API and Ho
 ## What did I learned ?
 
 - Using Context API is powerful like using Redux.
+- Context API is a clean way to share states between components, thus making the communication easier between them.
 
 ## How to Build ?
 
