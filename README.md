@@ -1,4 +1,4 @@
-# React Practice on the Context API, and Hooks ![forthebadge](https://badges.aleen42.com/src/react.svg)
+# React Practice on the Context API ![forthebadge](https://badges.aleen42.com/src/react.svg)
 
 ## App Screenshot
 
